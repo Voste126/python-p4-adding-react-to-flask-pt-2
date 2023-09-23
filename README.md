@@ -71,6 +71,7 @@ directory and add this line at the top level of the JSON object:
 
 ```json
 "proxy": "http://127.0.0.1:5555"
+
 ```
 
 Let's also update the "start" script in the the `package.json` file to specify a
